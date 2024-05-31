@@ -1,0 +1,11 @@
+Employee{ 
+ZhangSan{Manger,139-0451-0000} 
+LiSi{Secretary,151-0101-0000} 
+WangWu{Associate Dean,177-2021-0301}
+}
+Period{2021-01-10,2021-03-06} 
+Roster{ 
+ZhangSan{2021-01-10,2021-01-31} 
+LiSi{2021-02-01,2021-02-28}
+WangWu{2021-03-01,2021-03-10}
+}
